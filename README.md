@@ -11,3 +11,5 @@ Changes in remote
 modifying in local now
 
 changing in server now
+
+Editing in the local feature branch -1
