@@ -7,3 +7,5 @@ adding a line in remote
 adding in local now
 
 Changes in remote
+
+modifying in local now
